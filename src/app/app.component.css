@@ -1,0 +1,18 @@
+.profile{
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+}
+.sideBar-bg{
+    background: #f7f5f3;
+}
+.messageInput{
+    height: 80%;
+    width: 85%;
+    border: 0;
+    outline: 0;
+}
+.sendButton{
+    height: 40px;
+    width: 40px;
+}
