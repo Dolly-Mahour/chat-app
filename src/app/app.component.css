@@ -1,18 +1,43 @@
-.profile{
+.profile {
     height: 50px;
     width: 50px;
     border-radius: 50px;
 }
-.sideBar-bg{
+
+.sideBar-bg {
     background: #f7f5f3;
 }
-.messageInput{
+
+.messageInput {
     height: 80%;
     width: 85%;
     border: 0;
     outline: 0;
 }
-.sendButton{
+
+.sendButton {
     height: 40px;
     width: 40px;
+}
+
+.call-popup {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    background: white;
+    padding: 20px;
+    border: 1px solid black;
+}
+
+.bgChatImage {
+    background-image: url("/images/chatBg.webp");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.mx-w50{
+    max-width: 50%;
+}
+.h-500px{
+    height: 500px;
 }
